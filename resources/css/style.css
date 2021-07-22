@@ -13,8 +13,10 @@ a{
     text-align: center;
 }
 a:link{
-    color:aquamarine
+    color:aquamarine;
+    text-align: center;
 }
 a:visited{
-    color:aquamarine
+    color:aquamarine;
+    text-align: center;
 }
