@@ -10,6 +10,11 @@ h1{
 }
 a{
     color:aquamarine;
+
 }
-a:hover {color: aquamarine}  
-a:active {color: aquamarine}  
+a:link{
+    color:aquamarine
+}
+a:visited{
+    color:aquamarine
+}
