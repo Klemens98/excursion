@@ -8,6 +8,8 @@ h1{
     font-weight: normal;
     text-align: center;
 }
+
+/*
 a{
     color:aquamarine;
     text-align: center;
@@ -19,4 +21,10 @@ a:link{
 a:visited{
     color:aquamarine;
     text-align: center;
+}
+*/
+
+.link{
+    text-align: center;
+    color:aquamarine;
 }
