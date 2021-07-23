@@ -9,20 +9,18 @@ h1{
     text-align: center;
 }
 
+a, a:visited{
+    color:aquamarine;
+}
+a:link{
+    color:aquamarine;
+}
+a:active{
+    color: aquamarine;
+}
 
 .link{
     text-align: center;
     color:aquamarine;
-    a{
-        color:aquamarine;
-    }
-    a:link{
-        color:aquamarine;
-    }
-    a:visited{
-        color:aquamarine;
-    }
-    a:active{
-        color: aquamarine;
-    }
+
 }
